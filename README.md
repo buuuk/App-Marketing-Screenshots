@@ -1,5 +1,5 @@
 # App Marketing Screenshots
-!(App Marketing Screenshots)(https://github.com/buUuk/App-Marketing-Screenshots/blob/master/Images%20for%20Readme/Intro.jpg)
+![App Marketing Screenshots](/Images%20for%20Readme/Intro.jpg)
 
 Sketch template for creating Screenshots for the App Store & Play Store with descriptions — using symbols to make things easier.
 
