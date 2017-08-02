@@ -1,5 +1,4 @@
 # Design-App-Marketing-Screenshots
----
 Sketch template for creating Screenshots for the App Store & Play Store with descriptions — using symbols to make things easier.
 
 1. App Store Phone screenshot templates
