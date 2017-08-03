@@ -10,6 +10,7 @@ Sketch template for creating Screenshots for the App Store & Play Store with des
 1. Choose between Flat & Realistic phone frames
 2. Choose phone colour
 4. Choose top or bottom aligned phone frames
+5. It's sketch files — you can pretty much customise whatever you wish, innit?
 
 ![Select iPhone colours](/Images%20for%20Readme/iPhone%20Colours.jpg)
 ![Select Pixel Colours](/Images%20for%20Readme/Pixel%20Colours.jpg)
